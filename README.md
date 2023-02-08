@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheng-Wen Chen</h1>
-<h3 align="center">A Bachelor of Science from Southern Taiwan University of Science and Technology, Taiwan</h3>
+<h3 align="center">A master's student from Southern Taiwan University of Science and Technology, Taiwan</h3>
 
 <p align="left"> <a href="https://twitter.com/wenwen357951" target="blank"><img src="https://img.shields.io/twitter/follow/wenwen357951?logo=twitter&style=for-the-badge" alt="wenwen357951" /></a> </p>
 
