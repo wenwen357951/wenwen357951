@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/wenwen357951" target="blank"><img src="https://img.shields.io/twitter/follow/wenwen357951?logo=twitter&style=for-the-badge" alt="wenwen357951" /></a> </p>
 
-- 🔭 I’m currently working on [MOST-2023-ICH](https://github.com/TRCLab-STUST/MOST-2023-ICH)
+- 🔭 I’m currently working on [MOST-2023-ICH](https://github.com/TRCLab-STUST/MOST-2023-ICH) (Private Repo)
 
 - 📫 How to reach me **swchen357951@gmail.com**
 
