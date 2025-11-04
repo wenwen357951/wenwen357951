@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **wenwen357951@gmail.com**
 
-- 📄 Know about my experiences **[https://www.cake.me/s--pxhNtmcJboMFonywXpc-2Q--/wenwen357951-b1f88d](https://www.cake.me/s--pxhNtmcJboMFonywXpc-2Q--/wenwen357951-b1f88d)**
+- 📄 Know about my experiences **[https://waynechen.me/resume](https://waynechen.me/resume)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

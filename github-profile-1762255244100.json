@@ -1,0 +1,100 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2025-11-04T11:20:44.100Z",
+  "profile": {
+    "title": "Chen, Sheng-Wen (Wayne)",
+    "subtitle": "CS student specializing in AI and full-stack development",
+    "currentWork": "",
+    "currentLearn": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "wenwen357951@gmail.com",
+    "funFact": "",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": "https://waynechen.me/resume"
+  },
+  "social": {
+    "github": "wenwen357951",
+    "dev": "",
+    "linkedin": "wenwen357951",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "wenwen357951",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "arduino",
+    "docker",
+    "git",
+    "java",
+    "linux",
+    "mongodb",
+    "nuxtjs",
+    "opencv",
+    "postgresql",
+    "python",
+    "spring",
+    "tensorflow",
+    "typescript",
+    "vuejs"
+  ]
+}
